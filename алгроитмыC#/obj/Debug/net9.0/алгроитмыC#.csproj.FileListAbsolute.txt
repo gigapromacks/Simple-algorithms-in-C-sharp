@@ -1,0 +1,14 @@
+D:\Project C#\алгроитмыC#\bin\Debug\net9.0\алгроитмыC#.exe
+D:\Project C#\алгроитмыC#\bin\Debug\net9.0\алгроитмыC#.deps.json
+D:\Project C#\алгроитмыC#\bin\Debug\net9.0\алгроитмыC#.runtimeconfig.json
+D:\Project C#\алгроитмыC#\bin\Debug\net9.0\алгроитмыC#.dll
+D:\Project C#\алгроитмыC#\bin\Debug\net9.0\алгроитмыC#.pdb
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.AssemblyInfoInputs.cache
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.AssemblyInfo.cs
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.csproj.CoreCompileInputs.cache
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.dll
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\refint\алгроитмыC#.dll
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.pdb
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\алгроитмыC#.genruntimeconfig.cache
+D:\Project C#\алгроитмыC#\obj\Debug\net9.0\ref\алгроитмыC#.dll
